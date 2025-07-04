@@ -2,18 +2,22 @@ header{
     text-align:center;
 }
 body{
-    background-color:rgb(46, 46, 255);
-    text-align:center;
+    background-color:rgb(0, 77, 165);
 }
 button{
-    background-color:rgb(46, 46, 255);
-    cursor:grab;
+    background-color:rgb(0, 77, 165);
+    cursor:pointer;
+    border-radius:15%;
 }
 h1{
-    color:black;
+    color:rgb(0, 77, 165);
+    -webkit-text-stroke-width: 1px; /*Largura da borda*/
+    -webkit-text-stroke-color:black; /*Cor da borda*/
 }
 h2{
-    color:black;
+    color:rgb(0, 77, 165);
+    -webkit-text-stroke-width: 1px; /*Largura da borda*/
+    -webkit-text-stroke-color:black; /*Cor da borda*/
 }
 nav{
     text-align:center;
