@@ -1,0 +1,20 @@
+header{
+    text-align:center;
+}
+body{
+    background-color:rgb(46, 46, 255);
+    text-align:center;
+}
+button{
+    background-color:rgb(46, 46, 255);
+    cursor:grab;
+}
+h1{
+    color:rgb(0, 68, 84);
+}
+h2{
+    color:rgb(0, 68, 84);
+}
+nav{
+    text-align:center;
+}
